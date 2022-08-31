@@ -69,7 +69,7 @@ pip3 install -r requirements.txt
 ```
 pip install -r requirements.txt
 ```
-- Install Chrome (or update it lastest version)
+- Cài đặt Chrome (hoặc cập nhật phiên bản mới nhất)
 ```
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ```
