@@ -32,7 +32,7 @@ Công cụ này được tạo ra cho mục đích giáo dục<br/>
  - pxsky   | Bỏ qua Google Project Shield, Vshield, DDoS Guard Free, CF NoSec Với Proxy
  - sky     | Phương pháp Sky không có proxy
  - http2   | Tấn công yêu cầu HTTP 2.0
- = pxhttp2 | Tấn công yêu cầu HTTP 2.0 với Proxy
+ - pxhttp2 | Tấn công yêu cầu HTTP 2.0 với Proxy
  - spoof   | Tấn công giả mạo
  - pxspoof | Tấn công giả mạo với Proxy
  - get     | Get  Request Attack
