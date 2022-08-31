@@ -88,4 +88,5 @@ Sử dụng dòng lệnh : python3 main.py <method> <target> <thread> <time>
       └──────────> python3 main.py cfb https://example.com 100 30
 ```
 ## Nguồn
+
 (https://github.com/HyukIsBack/KARMA-DDoS)[https://github.com/HyukIsBack/KARMA-DDoS]
