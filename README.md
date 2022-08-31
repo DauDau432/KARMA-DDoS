@@ -89,4 +89,4 @@ Sử dụng dòng lệnh : python3 main.py <method> <target> <thread> <time>
 ```
 ## Nguồn
 
-(https://github.com/HyukIsBack/KARMA-DDoS)[https://github.com/HyukIsBack/KARMA-DDoS]
+[https://github.com/HyukIsBack/KARMA-DDoS](https://github.com/HyukIsBack/KARMA-DDoS)
